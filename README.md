@@ -9,14 +9,14 @@ Link - https://www.kaggle.com/datasets/ander289386/cars-germany
 
 
 # Objectives
->Data cleaning
+__Data cleaning__
 revealing gaps and inaccuracies in the data that can interfere with the analysis and then eliminating them.
-> Data Analysis 
+__Data Analysis__ 
 Use Pandas, NumPy, and other Python libraries for investigating our data and searching for interesting information and insights
->Statistical Analysis
+__Statistical Analysis__
 Using Pandas functions to obtain statistical information about data and identify relationships between variables.
->Discovering insights
+__Discovering insights__
 Discovery of interesting points that are worth paying attention to and on which it is possible to conduct further research. 
->Graphical representation 
+__Graphical representation__ 
 Using the Python Matplotlib library to represent findings using various types of visualization
 
